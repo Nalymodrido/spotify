@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: spotify2k24-render
-    env: docker
-    region: ohio
-    plan: free
-    branch: main
