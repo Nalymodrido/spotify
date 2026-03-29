@@ -1,0 +1,2 @@
+Bot blocked [] REASON: Blacklisted user agent
+Bot blocked [127.0.0.1] REASON: Blacklisted user agent
